@@ -6,17 +6,21 @@ This project was generated with https://github.com/angular/angular-cli[Angular C
 
 - Install http://nodejs.org[nodejs] 10.9.0 or later, it comes with http://npmjs.org[npm]
 - Install the Angular CLI
+
 ```
 npm install -g @angular/cli
 ```
+
 - Then install node modules with:
+
 ```
 npm install
 ```
 
 == Development server
 
-Run `npm run serve` for a dev server. Navigate to `http://localhost:4100/`.
+Run `npm run serve` for a dev server.
+Navigate to `http://localhost:4100/`.
 The app will automatically reload if you change any of the source files.
 
 == Code scaffolding
@@ -27,7 +31,8 @@ You can also use `ng generate directive|pipe|service|class|guard|interface|enum|
 == Build
 
 Run `npm run build` to build the project.
-The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+The build artifacts will be stored in the `dist/` directory.
+Use the `--prod` flag for a production build.
 
 == Running unit tests
 
@@ -79,9 +84,9 @@ and/or https://github.com/gravitee-io/gravitee-clients-sdk[gravitee-clients-sdk]
 for automatic installation of branch with same name.
 Don't forget to reset your package.json and package-lock.json after reviewing.
 
+```
+```
 
-```
-```
 == i18n
 
 This project use the internationalization (i18n) library for Angular http://www.ngx-translate.com

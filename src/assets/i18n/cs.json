@@ -252,6 +252,38 @@
         "transfer": "Převod"
       }
     },
+    "metadata": {
+      "add": {
+        "add": "Přidat",
+        "reset": "Resetovat",
+        "success": "Byla přidána nová metadata",
+        "title": "Přidejte metadata",
+        "value": {
+          "placeholder": "Podporuje FreeMarker"
+        }
+      },
+      "format": "Formát",
+      "key": "Klíč",
+      "list": {
+        "remove": {
+          "message": "Opravdu chcete tato metadata odstranit?",
+          "success": "Metadata byla smazána",
+          "title": "Odstranění"
+        },
+        "title": "Seznam metadat"
+      },
+      "name": "Název",
+      "update": {
+        "reset": "Resetovat",
+        "success": "Metadata byla aktualizována",
+        "title": "Aktualizujte metadata",
+        "update": "Aktualizujte",
+        "value": {
+          "placeholder": "Podporuje FreeMarker"
+        }
+      },
+      "value": "Hodnota"
+    },
     "name": {
       "label": "Název aplikace",
       "title": "Název aplikace"
@@ -899,6 +931,7 @@
     "logsApplication": "Protokoly",
     "management": "Administrace",
     "members": "Členové",
+    "metadata": "Metadata",
     "myApplications": "Moje aplikace",
     "mySubscriptions": "Moje předplatné",
     "notFound": "Stránka nebyla nalezena",

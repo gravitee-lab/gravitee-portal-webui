@@ -252,6 +252,38 @@
         "transfer": "Transférer"
       }
     },
+    "metadata": {
+      "add": {
+        "add": "Ajouter",
+        "reset": "Réinitialiser",
+        "success": "Nouvelle metadata ajoutée",
+        "title": "Ajouter une metadata",
+        "value": {
+          "placeholder": "Supporte la syntaxe FreeMarker"
+        }
+      },
+      "format": "Format",
+      "key": "Clé",
+      "list": {
+        "remove": {
+          "message": "Êtes-vous sûr de vouloir supprimer cette metadata ?",
+          "success": "Metadata supprimée",
+          "title": "Suppression"
+        },
+        "title": "Liste des metadata"
+      },
+      "name": "Nom",
+      "update": {
+        "reset": "Réinitialiser",
+        "success": "Metadata mise à jour",
+        "title": "Mettre à jour une metadata",
+        "update": "Mettre à jour",
+        "value": {
+          "placeholder": "Supporte la syntaxe FreeMarker"
+        }
+      },
+      "value": "Valeur"
+    },
     "name": {
       "label": "Nom de l'app",
       "title": "Nom de l'application"
@@ -899,6 +931,7 @@
     "logsApplication": "Logs",
     "management": "Administration",
     "members": "Membres",
+    "metadata": "Metadata",
     "myApplications": "Mes applications",
     "mySubscriptions": "Mes souscriptions",
     "notFound": "Page introuvable",
